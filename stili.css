@@ -204,7 +204,7 @@ footer {
         grid-column: 4/6;
     }
     .main .phone-ad img {
-        width: 100%; 
+        width: 70%; 
     }
 	.main .article-listing,
 	aside {
@@ -259,7 +259,7 @@ footer {
         grid-column: 1/4;
 	}
     .hero .hero-feature img{
-        width: 100%;
+        width: 80%;
     }
 
 	.hero .emphasize {
@@ -271,7 +271,7 @@ footer {
         grid-column: 2/3;
     }
 	.desktop-ad img {
-        width: 100%;
+        width: 80%;
 		max-width: 380px;
         float: right;
     }
