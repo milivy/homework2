@@ -271,7 +271,7 @@ footer {
         grid-column: 2/3;
     }
 	.desktop-ad img {
-        width: 60%;
+        width: 50%;
 		max-width: 380px;
         float: right;
     }
